@@ -1,5 +1,5 @@
 @extends('layouts.home')
-
+<h1>salam</h1>
 @section('content')
     @include('home.slider')
     <div class="section">
